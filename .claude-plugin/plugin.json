@@ -1,0 +1,6 @@
+{
+  "name": "agent-panel",
+  "version": "0.1.0",
+  "description": "Panel lateral con los agentes y subagentes de la sesión: nombre, modelo, estado, qué hacen y cuánto llevan",
+  "types": "./types/index.d.ts"
+}

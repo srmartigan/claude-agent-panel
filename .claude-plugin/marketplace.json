@@ -1,0 +1,5 @@
+{
+  "name": "claude-agent-panel",
+  "owner": { "name": "srmartigan" },
+  "plugins": [{ "name": "agent-panel", "source": "./" }]
+}
